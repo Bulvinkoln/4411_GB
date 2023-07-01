@@ -1,2 +1,2 @@
 * Assalomu aleykum
-![New screen image!] (image.png)
+![New screen image!](image.png)
