@@ -1,5 +1,7 @@
-## Git instruction
+## Git instructions
 
-Start a working area - запустить рабочую зону (see also: git help tutuorial)
+1. Start a working area
 
-1.clone - clone a repository into in new directory - клонировать репозиторий в новый каталог
+* clone - clone a repository in a new directory
+
+* init - create an empty Git repository
